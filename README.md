@@ -1,0 +1,1 @@
+This is a study project as a part of Odin!
